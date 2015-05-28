@@ -1,0 +1,14 @@
+{
+  "preset": "google",
+  "fileExtensions": [".js", ".jsx"],
+  "maximumLineLength": 120,
+
+  "disallowKeywords": ["with"],
+  "disallowSpacesInsideObjectBrackets": null,
+  "disallowImplicitTypeConversion": ["string"],
+
+  "excludeFiles": [
+    "node_modules/**",
+    "client/vendor/**"
+  ]
+}
