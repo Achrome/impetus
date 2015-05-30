@@ -16,12 +16,12 @@
     "tests"
   ],
   "dependencies": {
-    "requirejs": "~2.1.16",
-    "requirejs-react-jsx": "~0.12.2",
-    "semantic-ui": "~1.11.4",
-    "react": "~0.13.0",
+    "requirejs": "~2.1.18",
+    "requirejs-react-jsx": "~0.14.1",
+    "semantic-ui": "~1.12.3",
+    "react": "~0.13.3",
     "flux": "~2.0.2",
-    "backbone": "~1.1.2",
+    "backbone": "~1.2.0",
     "nib": "~1.1.0",
     "react.backbone": "~0.6.0"
   }
